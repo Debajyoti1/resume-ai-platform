@@ -1,9 +1,9 @@
 [submodule "resume-ai-frontend"]
 	path = resume-ai-frontend
-	url = git@dd:Debajyoti1/resume-ai-frontend.git
+	url = git@github.com:Debajyoti1/resume-ai-frontend.git
 [submodule "resume-ai-api"]
 	path = resume-ai-api
-	url = git@dd:Debajyoti1/resume-ai-api.git
+	url = git@github.com:Debajyoti1/resume-ai-api.git
 [submodule "resume-ai-worker"]
 	path = resume-ai-worker
-	url = git@dd:Debajyoti1/resume-ai-worker.git
+	url = git@github.com:Debajyoti1/resume-ai-worker.git
